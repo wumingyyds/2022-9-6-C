@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//求奇数
 int main()
 {
 	int a;
